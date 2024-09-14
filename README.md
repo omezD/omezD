@@ -22,7 +22,7 @@
 - 📫 How to reach me **amit2512das@gmail.com**
 
 - ⚡ Fun fact **Software developers turn coffee into code, powering the world one line at a time!**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omezd" alt="omezd" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/amitdas2528" target="blank"><img src="https://img.shields.io/twitter/follow/amitdas2528?logo=twitter&style=for-the-badge" alt="amitdas2528" /></a> </p>
 

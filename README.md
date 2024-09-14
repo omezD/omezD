@@ -4,7 +4,8 @@
 <h3 align="center">Passionate and aspiring Full-Stack developer from India</h3>
 <br/>
 <br/>
-<img align="right"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif" alt="coding" />
+
 <br/>
 
 

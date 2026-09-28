@@ -1,43 +1,119 @@
-<img align="center" width="1500" src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="omezd" />
+<!-- Profile README for github.com/omezD/omezD  (dark theme) -->
 
-<h1 align="center">Hi 👋, I'm Amit Das</h1>
-<h3 align="center">Passionate and aspiring Full-Stack developer from India</h3>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0d1117,50:161b22,100:1f6feb&text=AMIT%20DAS&fontColor=e6edf3&fontSize=64&fontAlignY=42&desc=Backend%20%26%20AI%20Engineer&descAlignY=64&descSize=22&animation=fadeIn" alt="Amit Das" />
+
+<a href="https://github.com/omezD">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&width=640&lines=Spring+Boot+%C2%B7+Angular+%C2%B7+React;I+build+APIs%2C+full-stack+apps+%26+RAG+assistants;Open+to+freelance+projects" alt="Typing intro" />
+</a>
+
 <br/>
-<br/>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif" alt="coding" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://linkedin.com/in/amit-das-1b177324a)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:das.amitt25@gmail.com)
+[![X](https://img.shields.io/badge/X-@AmitDas2528-e6edf3?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22)](https://twitter.com/amitdas2528)
+[![LeetCode](https://img.shields.io/badge/LeetCode-amit2512das-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161b22)](https://www.leetcode.com/amit2512das)
+
+</div>
 
 <br/>
 
+## `> whoami`
 
+```yaml
+name:      Amit Das
+role:      Backend & AI Engineer (Java · Spring Boot · Angular · React)
+education: B.Tech, IIITDM Jabalpur
+location:  India 🇮🇳
+focus:     Production-ready APIs, full-stack apps, RAG document assistants
+status:    Open to freelance projects
+reach_me:  das.amitt25@gmail.com
+```
 
+<br/>
 
-- 🔭 I’m currently working on [Twitter Clone](https://github.com/omezD/twitter-clone.git)
+## `> currently`
 
-- 🌱 I’m currently learning **React JS and Next JS**
+- 🔭 Building **[DocuMind AI](https://github.com/omezD/documind-ai)**, a RAG app with cited answers over your documents
+- 🌱 Going deeper on **Spring AI, vector search, and production-grade Spring Boot**
+- 💬 Ask me about **Spring Boot, Angular, React, and Express**
+- 📫 Reach me at **das.amitt25@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omezD/Portfolio-OmezD](https://github.com/omezD/Portfolio-OmezD)
+<br/>
 
-- 💬 Ask me about **Express and React**
+## `> what_i_build`
 
-- 📫 How to reach me **amit2512das@gmail.com**
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- ⚡ Fun fact **Software developers turn coffee into code, powering the world one line at a time!**
+### ⚙️ Backends
+Spring Boot REST APIs, JWT auth, PostgreSQL, integrations, Docker, Swagger docs.
 
+</td>
+<td width="33%" valign="top">
 
-<p align="left"> <a href="https://twitter.com/amitdas2528" target="blank"><img src="https://img.shields.io/twitter/follow/amitdas2528?logo=twitter&style=for-the-badge" alt="amitdas2528" /></a> </p>
+### 🖥️ Full-Stack Apps
+Angular / React dashboards and business apps on top of solid APIs.
 
+</td>
+<td width="33%" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amitdas2528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitdas2528" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit-das-1b177324a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-das-1b177324a" height="30" width="40" /></a>
-<a href="https://instagram.com/that_omez_mt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that_omez_mt" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit2512das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit2512das" height="30" width="40" /></a>
-</p>
+### 🤖 AI & RAG
+Chat with your PDFs and docs, with cited sources. Spring AI, embeddings, vector search.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</td>
+</tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omezd&show_icons=true&locale=en&layout=compact" alt="omezd" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omezd&show_icons=true&locale=en" alt="omezd" /></p>
+## `> featured_projects`
+
+| Project | What it is | Status |
+|:--|:--|:--:|
+| [**DocuMind AI**](https://github.com/omezD/documind-ai) | RAG app: upload documents, ask questions, get answers with cited sources | 🚧 Building |
+| [**Employee Management SaaS**](https://github.com/omezD/employee-management-saas) | Angular + Spring Boot + PostgreSQL + JWT business app | 🚧 Building |
+| [**Tripzo**](https://github.com/omezD/Tripzo) | Airbnb-style hotel and stay booking platform | ✅ Live |
+| [**AlgoMate**](https://github.com/omezD/AlgoMate) | Coding buddy for coders | ✅ Live |
+| [**Twitter Clone**](https://github.com/omezD/twitter-clone) | Full-stack social app | ✅ Built |
+
+More work in the [portfolio repo →](https://github.com/omezD/Portfolio-OmezD)
+
+<br/>
+
+## `> tech_stack`
+
+<div align="center">
+
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,docker,nodejs,express&theme=dark" /><br/><br/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind&theme=dark" /><br/><br/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,c,cpp&theme=dark" />
+
+</div>
+
+<br/>
+
+## `> how_i_work`
+
+- 📌 **Scoped, milestone-based delivery.** You know what you get and when.
+- 📚 **Documented code.** README, API docs, and setup steps on every project.
+- 💬 **Clear updates.** No disappearing acts.
+
+<br/>
+
+<div align="center">
+
+### Have a project in mind?
+
+**[das.amitt25@gmail.com](mailto:das.amitt25@gmail.com)**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1f6feb,50:161b22,100:0d1117&section=footer" alt="" />
+
+</div>

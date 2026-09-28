@@ -24,7 +24,7 @@
 ```yaml
 name:      Amit Das
 role:      Backend & AI Engineer (Java · Spring Boot · Angular · React)
-education: B.Tech, IIIT Jabalpur
+education: B.Tech, CSE, IIIT Jabalpur
 location:  India 🇮🇳
 focus:     Production-ready APIs, full-stack apps, RAG document assistants
 status:    Open to freelance projects

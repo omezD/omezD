@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0d1117,50:161b22,100:1f6feb&text=AMIT%20DAS&fontColor=e6edf3&fontSize=64&fontAlignY=42&desc=Backend%20%26%20AI%20Engineer&descAlignY=64&descSize=22&animation=fadeIn" alt="Amit Das" />
+<img width="100%" src="./footer.svg" alt="" />
 
 <a href="https://github.com/omezD">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&width=640&lines=Spring+Boot+%C2%B7+Angular+%C2%B7+React;I+build+APIs%2C+full-stack+apps+%26+RAG+assistants;Open+to+freelance+projects" alt="Typing intro" />

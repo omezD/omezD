@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="./footer.svg" alt="" />
+   <img width="100%" src="./banner.svg" alt="Amit Das" />
 
 <a href="https://github.com/omezD">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&background=0D111700&center=true&vCenter=true&width=640&lines=Spring+Boot+%C2%B7+Angular+%C2%B7+React;I+build+APIs%2C+full-stack+apps+%26+RAG+assistants;Open+to+freelance+projects" alt="Typing intro" />
@@ -114,6 +114,5 @@ More work in the [portfolio repo →](https://github.com/omezD/Portfolio-OmezD)
 
 **[das.amitt25@gmail.com](mailto:das.amitt25@gmail.com)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1f6feb,50:161b22,100:0d1117&section=footer" alt="" />
-
+   <img width="100%" src="./footer.svg" alt="" />
 </div>
